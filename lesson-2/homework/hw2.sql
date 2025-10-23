@@ -1,8 +1,3 @@
-------------------------------------------------------------
--- BASIC + INTERMEDIATE + ADVANCED SQL TASKS (1–25)
--- SQL Server Compatible
-------------------------------------------------------------
-
 -- 1. Create Employees table
 CREATE TABLE Employees (
     EmpID INT PRIMARY KEY,
